@@ -10,31 +10,13 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
-- *[Adicione outras habilidades relevantes]*
-
-## Projetos Destacados
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
-
-## Contribuições
-
-- [Nome do Projeto/Open Source]: Breve descrição da contribuição.
+- **Linguagens de Programação:** C, C++, Java
+- **Desenvolvimento Web:** HTML, CSS, 
+- **Banco de Dados:** MySQL
+- **Metodologias:** Scrum
+- **Ferramentas:** Git, VS Code
 
 ## Contato
 
 - **E-mail:** [brunosato2005@gmail.com]
-- **Twitter:** [-]
-- **LinkedIn:** [-]
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+- **LinkedIn:** [https://www.linkedin.com/in/bruno-sato-8aa2b42a1]
